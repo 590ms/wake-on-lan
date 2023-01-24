@@ -13,3 +13,7 @@ This script is designed to run the ping command every day at 16:28, if the devic
 You may want to adjust the schedule time and the IP address, MAC address and name of the device according to your needs.
 
 Also, please note that, this script is using the wakeonlan library which is not a built-in library, you need to install it before running the script!!!!
+
+If you want to run it on a phone on pydroid3 there are some changes that are needed head over to the other github page i have about that and download the code from there.
+
+https://github.com/590ms/wake-on-lan-pydroid3
